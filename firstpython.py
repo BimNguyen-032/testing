@@ -1,0 +1,3 @@
+#fisplayoutput
+
+print("hello")
